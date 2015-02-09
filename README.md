@@ -1,2 +1,2 @@
 # ViiVImages
-Images for email blast
+Images + HTML Email Template for ViiV Healthcare
